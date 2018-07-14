@@ -1,0 +1,18 @@
+.card {
+    margin-top: 40px;
+}
+
+th {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #010146;;
+    margin-top: 40px;
+    color: white;
+    border-radius: .3rem;
+}
+
+.footer-links{
+    color: white;
+}
